@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello, my friend 👋
 
-<!--
-**KuryaevAO/KuryaevAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:man_technologist: I am the beginner QA Automation
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Selenide technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :hammer_and_wrench: What I use
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuryaevao)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 My contacts:
+- Skype - [alexandr_kuryaev](https://join.skype.com/invite/MyO6wxEqSYI3) -->
+- Telegram - https://t.me/threedoge 
 -->
