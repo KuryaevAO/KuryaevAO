@@ -8,7 +8,7 @@
 
 ### 🛠️ What I use
 
-<img src="img/gradle_logo.jpg" width=10% height=10%> <img src="img/intellij.jpg" width=10% height=10%> <img src="img/java.png" width=10% height=10%> <img src="img/selenide.jpg" width=10% height=10%> <img src="img/junit5.png" width=10% height=10%>
+<img src="img/gradle_logo.jpg" width=10% height=10%> <img src="img/intellij.jpg" width=10% height=10%> <img src="img/java.png" width=10% height=10%> <img src="img/selenide.jpg" width=10% height=10%> <img src="img/junit5.png" width=10.2% height=10.2%>
 
 [![KuryaevAO GitHub stats](https://github-readme-stats.vercel.app/api?username=kuryaevao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
