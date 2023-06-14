@@ -13,7 +13,7 @@
 <img src="img/gradle_logo.jpg" width=10% height=10%> <img src="img/intellij.jpg" width=10% height=10%> <img src="img/java.png" width=10% height=10%> <img src="img/selenide.jpg" width=10% height=10%> <img src="img/junit5.png" width=10% height=10%> <img src="img/allure.jpg" width=10% height=10%> <img src="img/jenkins.jpg" width=15.02% height=15.02%>
 
 ### 💼 My recent project:
-+ [StopGame Tests](https://github.com/KuryaevAO/stopgame-test)   
++ [Автотесты на сайт StopGame.ru](https://github.com/KuryaevAO/stopgame-test)   
 
 ---
 
