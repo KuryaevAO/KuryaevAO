@@ -17,11 +17,9 @@
 
 ---
 
-[![KuryaevAO GitHub stats](https://github-readme-stats.vercel.app/api?username=kuryaevao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+### 📫 My contacts:
+- Skype - [alexandr_kuryaev](https://join.skype.com/invite/MyO6wxEqSYI3)
+- Telegram - https://t.me/threedoge
 ---
 
-### 📫 My contacts:
-- Skype - [alexandr_kuryaev](https://join.skype.com/invite/MyO6wxEqSYI3) -->
-- Telegram - https://t.me/threedoge
-  -->
+[![KuryaevAO GitHub stats](https://github-readme-stats.vercel.app/api?username=kuryaevao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
